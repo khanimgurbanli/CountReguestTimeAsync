@@ -1,0 +1,15 @@
+C:\Users\INSPIRON\source\repos\ExcelFile\Clas-Interface\Tasks\Sync,Async\Sync,Async\bin\Debug\net6.0\Sync,Async.exe
+C:\Users\INSPIRON\source\repos\ExcelFile\Clas-Interface\Tasks\Sync,Async\Sync,Async\bin\Debug\net6.0\Sync,Async.deps.json
+C:\Users\INSPIRON\source\repos\ExcelFile\Clas-Interface\Tasks\Sync,Async\Sync,Async\bin\Debug\net6.0\Sync,Async.runtimeconfig.json
+C:\Users\INSPIRON\source\repos\ExcelFile\Clas-Interface\Tasks\Sync,Async\Sync,Async\bin\Debug\net6.0\Sync,Async.dll
+C:\Users\INSPIRON\source\repos\ExcelFile\Clas-Interface\Tasks\Sync,Async\Sync,Async\bin\Debug\net6.0\Sync,Async.pdb
+C:\Users\INSPIRON\source\repos\ExcelFile\Clas-Interface\Tasks\Sync,Async\Sync,Async\obj\Debug\net6.0\Sync,Async.csproj.AssemblyReference.cache
+C:\Users\INSPIRON\source\repos\ExcelFile\Clas-Interface\Tasks\Sync,Async\Sync,Async\obj\Debug\net6.0\Sync,Async.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\INSPIRON\source\repos\ExcelFile\Clas-Interface\Tasks\Sync,Async\Sync,Async\obj\Debug\net6.0\Sync,Async.AssemblyInfoInputs.cache
+C:\Users\INSPIRON\source\repos\ExcelFile\Clas-Interface\Tasks\Sync,Async\Sync,Async\obj\Debug\net6.0\Sync,Async.AssemblyInfo.cs
+C:\Users\INSPIRON\source\repos\ExcelFile\Clas-Interface\Tasks\Sync,Async\Sync,Async\obj\Debug\net6.0\Sync,Async.csproj.CoreCompileInputs.cache
+C:\Users\INSPIRON\source\repos\ExcelFile\Clas-Interface\Tasks\Sync,Async\Sync,Async\obj\Debug\net6.0\Sync,Async.dll
+C:\Users\INSPIRON\source\repos\ExcelFile\Clas-Interface\Tasks\Sync,Async\Sync,Async\obj\Debug\net6.0\refint\Sync,Async.dll
+C:\Users\INSPIRON\source\repos\ExcelFile\Clas-Interface\Tasks\Sync,Async\Sync,Async\obj\Debug\net6.0\Sync,Async.pdb
+C:\Users\INSPIRON\source\repos\ExcelFile\Clas-Interface\Tasks\Sync,Async\Sync,Async\obj\Debug\net6.0\Sync,Async.genruntimeconfig.cache
+C:\Users\INSPIRON\source\repos\ExcelFile\Clas-Interface\Tasks\Sync,Async\Sync,Async\obj\Debug\net6.0\ref\Sync,Async.dll
